@@ -6,7 +6,7 @@ Exemplo bem simples usando http.Get("")
 Onde tem 37900040, trocar para o CEP desejado.
 Em main.go tem o código completo
 
-func main() {
+
 
 	var dadosCEP CEP
 
@@ -18,4 +18,4 @@ func main() {
 
 	fmt.Println(dadosCEP)
 
-}
+
