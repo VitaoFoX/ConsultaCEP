@@ -23,4 +23,8 @@ Em main.go tem o código completo
 
 	fmt.Println(dadosCEP)
 
+### Running
 
+```sh
+go run main.go
+```
