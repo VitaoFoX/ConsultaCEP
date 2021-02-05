@@ -1,6 +1,6 @@
-﻿<h3 align="center">
+﻿<h1 align="center">
   Consulta CEP - Utilizando Golang
-</h3>
+</h1>
 
  # Projeto
 
